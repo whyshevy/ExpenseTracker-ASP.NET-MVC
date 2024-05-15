@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+20JSv6QQ7jsBKg9ByNVsQxVCx/sWEqapALdlyDNpwvBldpzCqstOUGglc/aKBPwIAWLWf0llyVKzFdoaYvxIQ==",
+  "dgSpecHash": "nTHe4ho+qDDzdnYV7G3ETSgiTZKDTPMO4bcYguAl86emMoRY62w4FcyrjyRphOJQ0B3GpLTt0Y5dLkHys7R+8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bohdan\\source\\repos\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
   "expectedPackageFiles": [
@@ -133,6 +133,7 @@
     "C:\\Users\\Bohdan\\.nuget\\packages\\nuget.projectmodel\\6.9.1\\nuget.projectmodel.6.9.1.nupkg.sha512",
     "C:\\Users\\Bohdan\\.nuget\\packages\\nuget.protocol\\6.9.1\\nuget.protocol.6.9.1.nupkg.sha512",
     "C:\\Users\\Bohdan\\.nuget\\packages\\nuget.versioning\\6.9.1\\nuget.versioning.6.9.1.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\syncfusion.licensing\\25.2.4\\syncfusion.licensing.25.2.4.nupkg.sha512",
     "C:\\Users\\Bohdan\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\Bohdan\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\Bohdan\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",
